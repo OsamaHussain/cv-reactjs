@@ -1,0 +1,12 @@
+.contact div {
+    font-size: 13px;
+    color: #555;
+    line-height: 20px;
+}
+.contact .fw {
+    font-weight: 600;
+    color: #222;
+}
+.contact {
+    margin-bottom: 20px;
+}

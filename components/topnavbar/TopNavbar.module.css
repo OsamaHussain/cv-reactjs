@@ -1,0 +1,12 @@
+.textColor {
+    margin: 0 !important;
+}
+.textColor div {
+    color: white !important;
+}
+.textColor a {
+    color: white;
+}
+.loginBtn button{
+    padding: 8px 30px !important;
+}

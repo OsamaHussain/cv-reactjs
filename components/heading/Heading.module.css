@@ -1,0 +1,42 @@
+.textColor {
+    color: #222;
+    font-size: 35px;
+}
+.dotBlue {
+    color: #22f;
+    font-size: 45px;
+}
+.fontSize1 {
+    font-size: 36px;
+    font-weight: 600;
+}
+.fontSize2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.fontSize3 {
+    font-size: 24px;
+    font-weight: 500;
+}
+.fontSize4 {
+    font-size: 18px;
+    font-weight: 500;
+}
+.fontSize5 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #777;
+}
+.fontSize6 {
+    font-size: 11px;
+    font-weight: 700;
+    color: #444;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-bottom: 1px solid transparent;
+}
+.fontSize6:hover {
+    border-bottom: 1px solid blue;
+    color: blue;
+}

@@ -1,0 +1,28 @@
+.ButtonBlue button{
+    background-color: #3333FF;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: 0.3s linear;
+}
+.ButtonBlue button:hover {
+    box-shadow: 5px 5px 5px #333;
+}
+.ButtonWhite button {
+    background-color: #ccc;
+    color: black;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: 0.3s linear;
+}
+.ButtonWhite button:hover {
+    box-shadow: 5px 5px 5px #333;
+}

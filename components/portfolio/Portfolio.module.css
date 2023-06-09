@@ -1,0 +1,13 @@
+.active {
+    color: blue;
+}
+.zoomEffect {
+    transition: 0.3s linear;
+}
+.zoomEffect:hover {
+    transform: scale(1.2);
+}
+.zoomEffectParent {
+    overflow: hidden;
+    border-radius: 5px;
+}
