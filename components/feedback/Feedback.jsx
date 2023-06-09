@@ -6,7 +6,7 @@ import Image from '../image/Image'
 
 const Feedback = () => {
   return (
-    <div className='container-fluid'>
+    <div className='container-fluid' id='feedback'>
         <div className='container'>
             <div className='row my-5'>
                 <div className='col-md-4'>

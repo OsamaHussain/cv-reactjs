@@ -13,7 +13,7 @@ import Image from '../image/Image'
 
 const Portfolio = () => {
   return (
-    <div className='container-fluid'>
+    <div className='container-fluid' id='portfolio'>
         <div className='container'>
             <div className='row my-5'>
                 <div className='col-md-12'>

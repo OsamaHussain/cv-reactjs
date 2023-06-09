@@ -6,7 +6,7 @@ import Button from '../button/Button'
 
 const ContactForm = () => {
   return (
-    <div className='container-fluid'>
+    <div className='container-fluid' id='contact'>
         <div className='container'>
             <div className='row my-5'>
                 <div className='col-md-4'>

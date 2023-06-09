@@ -6,7 +6,7 @@ import Image from '../image/Image'
 
 const Education = () => {
   return (
-    <div className='container-fluid'>
+    <div className='container-fluid' id='education'>
         <div className='container'>
             <div className='row my-5'>
                 <div className='col-md-4'>
